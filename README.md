@@ -15,4 +15,5 @@ El resultado es una herramienta que facilita a los directores y gestores del MIN
 
 ## Evidencia del Trabajo
 
-<img width="2207" height="1150" alt="image" src="https://github.com/user-attachments/assets/eacbb344-e4bb-418a-9cce-37b5f11bed47" />
+<img width="1459" height="825" alt="image" src="https://github.com/user-attachments/assets/b9ec2b5a-99f5-4c51-8a08-7183e554f4dd" />
+
